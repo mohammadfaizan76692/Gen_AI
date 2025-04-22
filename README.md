@@ -20,7 +20,14 @@ Frame that is help to Build LLM based Applications or Applications that are powe
 
 ### Language based
 1) LLMS : General Purposed Models  
-  Use cases: Translation, text generattion, summarization, code generation,   creative writing
+  Use cases: Translation, text generattion, summarization, code generation,   creative writing,
+  input string , and output also String
 
 2) Chat Models : Conversational Purpose 
    Use Cases: Conversational AI, Chat bots, Customer Support, AI tutors
+
+
+## Not Free Model
+1)  OPEN AI
+2)  GOOGLE GEN AI  
+3) Anthropic  
