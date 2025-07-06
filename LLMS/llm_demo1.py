@@ -8,4 +8,4 @@ llm = OpenAI(model = "gpt-3.5-turbo-instruct")
 ## just for hitting invoke taking pron 
 response = llm.invoke("What is the capital of Spain")
 
-print(response)
+print(response) 
